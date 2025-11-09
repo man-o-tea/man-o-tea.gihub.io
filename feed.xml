@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ZWrites</title>
+    <link href="https://man-o-tea.github.io/feed.xml" rel="self" />
+    <link href="https://man-o-tea.github.io" />
+    <updated>2025-11-09T13:26:43-06:00</updated>
+    <author>
+        <name>Zel</name>
+    </author>
+    <id>https://man-o-tea.github.io</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Zel</name>
+        </author>
+        <link href="https://man-o-tea.github.io/test-post.html"/>
+        <id>https://man-o-tea.github.io/test-post.html</id>
+
+        <updated>2025-11-09T13:26:43-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is my first test post!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is my first test post!
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
